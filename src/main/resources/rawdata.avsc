@@ -1,0 +1,5 @@
+{
+    "type":"record",
+    "name": "RawData",
+    "fields": [ {"name": "body", "type": "bytes" } ]
+ }
